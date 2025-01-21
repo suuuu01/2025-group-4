@@ -161,4 +161,34 @@
 **Possible Creative Twists**
 - Add a “Creator Mode” where players design their own mini-games and share them.
 - Introduce props and costumes that affect gameplay mechanics or scoring.
-  
+
+## 7. Escape From Tarkov
+
+**Type**
+- A hardcore first-person extraction shooter with survival and RPG elements, focusing on realistic combat and resource management.
+
+**Background Story**
+- Set in the fictional Norvinsk region, players take on the role of mercenaries (USEC or BEAR) trying to escape the war-torn city of Tarkov amidst ongoing conflict between factions and scavengers.
+
+**Core Mechanics**
+ - Extraction-based gameplay: Enter raids, loot, and escape before time runs out.
+ - Realistic gunplay: Extensive weapon customization and detailed ballistics.
+ - Survival elements: Manage health, hydration, and injuries.
+ - Inventory management: Careful looting and gear prioritization.
+ - Economy: Player-driven market and progression through traders.
+
+**Winning Goal**
+- Survive, loot valuable items, complete quests, and build wealth to ultimately escape Tarkov.
+
+**Shining Points**
+ - Unmatched realism in gunplay and survival mechanics.
+ - High-stakes gameplay with permanent gear loss upon death.
+ - Immersive maps with deep lore and dynamic AI.
+ - Player-driven economy and progression system.
+
+**Possible Creative Twists**
+ - Dynamic weather affecting gameplay.
+ - Faction-based events and alliances.
+ - Base building and hideout expansions.
+ - Enhanced AI with adaptive behavior.
+ - Modding support for custom scenarios.
